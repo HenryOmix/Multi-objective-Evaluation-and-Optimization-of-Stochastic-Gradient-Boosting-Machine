@@ -15,10 +15,10 @@ Run the `Dataset preparation and Imputation.R` script. This script will:
 #### Step 2: Model Execution
 
 Before running the models, create the following directory structure to store the output files:
-Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/GY/
-Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/GPC/
-Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/TGW/
-Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/HET/
+*   Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/GY/
+*   Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/GPC/
+*   Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/TGW/
+*   Coding/ModellingScripts/COMPLETE_imputed_data_run/GBM/HET/
 
 To begin the analysis, run the main initiator script: `GBM_Initiator_Script_HM_2025.R`.
 
