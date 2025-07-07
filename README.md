@@ -9,7 +9,7 @@ Scott, M. F., Fradgley, N., Bentley, A. R., Brabbs, T., Corke, F., Gardner, K. A
 
 Run the `Dataset preparation and Imputation.R` script. This script will:
 1.  Process the raw phenotypic and genomic datasets.
-2.  Impute missing values using the `missRanger` package. **NOTE: imputation is slow **
+2.  Impute missing values using the `missRanger` package. **NOTE: imputation is slow**
 3.  Generate five sets of 80/20 training and testing data splits, exporting them as CSV files.
 
 #### Step 2: Model Execution
