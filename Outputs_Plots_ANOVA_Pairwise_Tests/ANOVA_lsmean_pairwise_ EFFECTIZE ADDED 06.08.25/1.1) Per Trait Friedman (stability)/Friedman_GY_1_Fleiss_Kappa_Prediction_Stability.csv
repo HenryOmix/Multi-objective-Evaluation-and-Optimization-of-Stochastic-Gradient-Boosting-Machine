@@ -1,0 +1,2 @@
+"Phenotype","Metric","ChiSq","df","p.value","Kendall_W"
+"GY_1","Fleiss_Kappa_Prediction_Stability",166.631750045151,35,4.67772015524029e-19,0.952181428829433

@@ -1,0 +1,2 @@
+"Phenotype","Metric","ChiSq","df","p.value","Kendall_W"
+"HET_1","ICC_Prediction_Stability",173.882882882883,35,2.49119595458e-20,0.993616473616474
